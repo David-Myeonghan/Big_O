@@ -17,8 +17,9 @@ Instead of using time to measure the efficiency of our function, we can just cal
 Big O doesn’t measure things in seconds. Instead we’re focusing on **how quickly the runtime grows**.
 The size of input compared to the number of operations that increase => scalability!
 
-<Inputs can be any type of data>
-- O(n) [O of n] - Linear Time (Proportionally)
+Inputs can be any type of data
+
+- O(n) [O of n] - Linear Time (Proportionally).
 
 - O(1) [O of one] - Constant time
   No matter how big the input is, the number of operations stays flat
