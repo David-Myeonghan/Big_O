@@ -84,3 +84,5 @@ Inputs can be any type of data
 - Big O: upper asymptotic bound, useful for worst-case performance.
 - Big Omega: lower asymptotic bound, useful for best-case. The opposite of Big O.
 - Big Theta: not upper, or lower bound, but it's the bound that matches closest to the behaviour of an algorithm.
+
+- Refer "https://www.quora.com/What-is-the-difference-between-big-oh-big-omega-and-big-theta-notations"
