@@ -78,3 +78,9 @@ Inputs can be any type of data
 
 - Make you see the code differently by Big O, related to Readable, Scalable(Speed, Memory).
 - Constant Not always better than O(n) if input is just a hundred.
+
+### Big_O = upper bound, Big_Omega = lower bound, Big_Theta = tight bound
+
+- Big O: upper asymptotic bound, useful for worst-case performance.
+- Big Omega: lower asymptotic bound, useful for best-case. The opposite of Big O.
+- Big Theta: not upper, or lower bound, but it's the bound that matches closest to the behaviour of an algorithm.
